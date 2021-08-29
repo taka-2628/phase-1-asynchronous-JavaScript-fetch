@@ -1,0 +1,32 @@
+{
+    "animals": [
+        {
+            "id": 1,
+            "name": "Pangolin",
+            "imageUrl": "",
+            "description": "",
+            "donations": 0
+        },
+        {
+            "id": 2,
+            "name": "Mantis Shrimp",
+            "imageUrl": "",
+            "description": "",
+            "donations": 0
+        },
+        {   
+            "id": 3,
+            "name": "Mantis Shrimp",
+            "imageUrl": "",
+            "description": "",
+            "donations": 0
+        },
+        {   
+            "id": 4,
+            "name": "Wombat",
+            "imageUrl": "",
+            "description": "",
+            "donations": 0
+        }
+    ]
+}
